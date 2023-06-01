@@ -1,0 +1,87 @@
+- Complete Road Map to be expert in python
+
+-- Few points to remember
+	- Focus on your end goal
+	- Keep some time frame in your mind
+	- Learn Everyday (Continuous Learning)
+	- Google is your friend (any queries go to him)
+
+-- Part 1 - Start with Jupyter Notebook - Learn Basic Syntax - 2 Days
+	- Basic Arithmetic Operations
+	- Control and conditional structures
+	- Looping - For, while loops
+	- User Input
+	- Strings
+	- Integers
+	- Floating Values
+	- Typecasting
+
+-- Part 2 - Focus on in-built data structures - 3 Days
+	- Python Strings and Inbuilt Functions
+	- Python List and Boolean Variables inbuilt functions
+	- Python Sets - Inbuilt functions
+	- Python Dictionaries - Inbuilt functions
+	- Python Tuples - Inbuilt functions
+	- Functions in Python
+	- Lambda Functions
+	- Iterators and Generators
+	- Exception Handling & Import libraries
+
+-- Part 3 - OOPS is all you need - 4 Days
+	- Classes
+	- Object
+	- Method
+	- Inheritance
+	- Polymorphism 
+	- Data Abstraction
+	- Encapsulation
+
+-- Part 4 - Libraries with python - 2 Days
+	- Numpy - Play with Arrays
+	- Pandas
+	- Matplotlib
+	- Seaborn
+	- Scipy
+
+This will get you started with python
+
+-- Path towards Specialization
+	- Frameworks for Web Development
+	- Frameworks for Building Desktop Application
+	- Further Libraries for Machine Learning and Deep Learning
+	
+-- Combined Libraries & Frameworks for Machine Learning and Deep Learning
+	- NumPy
+	- Pandas
+	- Flask
+	- django
+	- Dask
+	- SciPy
+	- matplotlib
+	- Seaborn
+	- Nvidia CUDA Libraries
+	- TensorFlow, Keras
+	- PyTorch
+	- Caffe
+	- scikit-learn
+	
+-- Framework for Web Development
+	- Flask
+	- Django
+	- Web2Py
+	- TurboGears
+	- CherryPy
+
+-- Framework for Desktop Application
+	- Tkinter
+	- Qt
+	- kivy
+
+-- Final Points to Remember
+	- Don't be hard on yourself
+	- give yourself time
+	- don't worry much of the outcome
+	- keep on preparing and learning continuously
+	- dont feel demotivated
+	- dont hesitate to take help by google
+	
